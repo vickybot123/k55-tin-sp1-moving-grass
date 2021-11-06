@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1635654225 source:c:\users\hungv\study\coding\tin-sp1\mildle-test\moving-grass\main.cpp
+	<iostream>
+	"arrays.h"
+
+1635654710 c:\users\hungv\study\coding\tin-sp1\mildle-test\moving-grass\arrays.h
+
+1635653175 source:c:\users\hungv\study\coding\tin-sp1\mildle-test\moving-grass\arrays.cpp
+	<iostream>
+	"arrays.h"
+
